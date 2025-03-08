@@ -1,6 +1,5 @@
 # Backend Node.js dependencies
 backend/node_modules/
-backend/package-lock.json
 
 # Logs
 backend/npm-debug.log*
